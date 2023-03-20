@@ -1,6 +1,6 @@
 <form action="action_page.php" style="border:1px solid #ccc">
   <div class="container">
-    <h1>Sign Up updated</h1>
+    <h1>Sign Up updated for ansible check</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
